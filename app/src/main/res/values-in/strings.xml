@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv">Acara TV</string>
+    <string name="title_favourite">Favorit</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara TV</string>
+    <string name="ini_poster">ini poster</string>
+    <string name="detail_movie">Detail Film</string>
+    <string name="detail_tv_show">Detail Acara TV</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="loading">Gagal memuat data, silahkan nyalakan koneksi internet anda</string>
+    <string name="title_detail">Judul</string>
+    <string name="release_date_detail">Tanggal Rilis</string>
+    <string name="synopsis_detail">Sinopsis</string>
+    <string name="_0_0">0.0</string>
+    <string name="ini_icon_language">ini icon language</string>
+    <string name="ini_icon_rating">ini icon rating</string>
+    <string name="ini_backdrop">ini backdrop</string>
+
+    <string name="favorite">favorit</string>
+    <string name="add_favourite">Ditambahkan ke favorit</string>
+    <string name="failed_favourite">Gagal ditambahkan ke favorit</string>
+    <string name="remove_favourite">Dihapus dari favorit</string>
+    <string name="search">Cari</string>
+    <string name="search_movie">Cari Film…</string>
+    <string name="search_tv">Cari Acara TV…</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="favourite_movie">Favourite Movie</string>
+    <string name="notification_settings">Pengaturan Notifikasi</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="notification_daily">Notifikasi setiap jam 07:00 pagi</string>
+    <string name="today_release_reminder">Pengingat rilis hari ini</string>
+    <string name="notification_release">Notifikasi rilis Film hari ini setiap jam 08:00 pagi</string>
+    <string name="daily_reminder_message">Hai… ketuk aku! Dan temukan film favoritmu disini</string>
+    <string name="daily_reminder_on">Pengingat harian On</string>
+    <string name="daily_reminder_off">Pengingat harian Off</string>
+    <string name="release_today_on">Pengingat rilis hari ini Nyala</string>
+    <string name="release_today_off">Pengingat rilis hari ini Mati</string>
+    <string name="and_more">dan lainnya…</string>
+    <string name="no_data">No Data</string>
+    <string name="released_movie_today">Film rilis hari ini</string>
+</resources>

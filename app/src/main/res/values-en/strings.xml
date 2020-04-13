@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv">TV Show</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">TV Show</string>
+    <string name="ini_poster">ini poster</string>
+    <string name="detail_movie">Movie Detail</string>
+    <string name="detail_tv_show">TV Show Detail</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="loading">Failed load data, please turn on your connection internet</string>
+    <string name="title_detail">Title</string>
+    <string name="release_date_detail">Release Date</string>
+    <string name="synopsis_detail">Synopsis</string>
+    <string name="_0_0">0.0</string>
+    <string name="ini_icon_language">this is language icon</string>
+    <string name="ini_icon_rating">this is rating icon</string>
+    <string name="ini_backdrop">this is backdrop icon</string>
+
+    <string name="favorite">favorite</string>
+    <string name="add_favourite">Added to Favourite</string>
+    <string name="failed_favourite">Failed Add to Favourite</string>
+    <string name="remove_favourite">Removed from Favourite</string>
+    <string name="search">Search</string>
+    <string name="search_movie">Search movie…</string>
+    <string name="search_tv">Search TV Show…</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="favourite_movie">Favourite Movie</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="notification_daily">Notification every 07:00 AM</string>
+    <string name="today_release_reminder">Release Today Reminder</string>
+    <string name="notification_release">Notification Movie release today every 08:00 AM</string>
+    <string name="daily_reminder_message">Hi… tap me! And discover your favorite movie here</string>
+    <string name="daily_reminder_on">Daily reminder On</string>
+    <string name="daily_reminder_off">Daily reminder Off</string>
+    <string name="release_today_on">Release today reminder On</string>
+    <string name="release_today_off">Release today reminder Off</string>
+    <string name="and_more">and more…</string>
+    <string name="no_data">No Data</string>
+    <string name="released_movie_today">Movies have released today</string>
+</resources>
